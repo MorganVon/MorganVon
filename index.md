@@ -21,4 +21,9 @@ If Possible, these file will also be updated:
 
 ### Option Trading Strategy
 
-Some  
+Some Basic Trading Strategy and make some Back Test with the Strategy.
+Maily Using **Vanilla Options** because of the volume in many products is too low to make the strategy.
+
+These Strategy will be updated:
+1. Option Short Strategy;
+2. Calender Spread Strategy;
