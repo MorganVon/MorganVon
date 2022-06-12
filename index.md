@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MorganVon/MorganVon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, this is my gitgub page. There'll be some of my research with some coding file.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Main Research is about option valuation and trading strategy. Welcome to comment. 
 
-### Markdown
+### Option Valuation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'll make some very basic file about valuation of the Option Products, mainly about **Equity Vanilla options** and may add some **Exotic Options**.
 
-```markdown
-Syntax highlighted code block
+These coding file will be updated:
+1. Basic Vanilla Valuation Model;
+2. Vanilla Option Greeks Valuation Model;
+3. A Basic GUI about the Vanilla position controlling;
+4. Exotic Option Valuation Model (Monte Carlo).
 
-# Header 1
-## Header 2
-### Header 3
+If Possible, these file will also be updated:
+1. Currency Option Valuation Model;
+2. Simple Volatilty Surface Mark Model;
+3. Composite Mark System including Risk-Free Rates and Dividends.
 
-- Bulleted
-- List
+### Option Trading Strategy
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MorganVon/MorganVon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some  
